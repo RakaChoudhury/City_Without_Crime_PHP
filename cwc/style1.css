@@ -1,0 +1,22 @@
+
+#div2
+{
+    background-color :black;
+    
+    font-family:Brush Script MT ;
+    font-size: 50px;
+    font-weight: bolder;
+    text-transform:fullwidth;
+    text-orientation: rotate-left;
+    text-decoration:#422100;
+    color: white;
+    border-style: double; 
+}
+#div_bg
+{
+    background-color: burlywood; 
+    opacity:0.7; 
+    width:90%;  
+    border-radius:10px;
+    alignment-adjust: central;
+}
